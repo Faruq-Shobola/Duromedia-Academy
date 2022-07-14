@@ -1,3 +1,15 @@
+.container {
+    display: block;
+    margin: 50px auto;
+    width: 500px;
+    text-align: center;
+}
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #eee;
+}
 form {
     width: 300px;
     margin: 20px auto;
